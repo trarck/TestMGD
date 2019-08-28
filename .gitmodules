@@ -1,0 +1,3 @@
+[submodule "mgdintegrate"]
+	path = mgdintegrate
+	url = git@github.com:trarck/MgdIntegrate.git
